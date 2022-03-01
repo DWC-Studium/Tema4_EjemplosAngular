@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'DWC_Tema4_EjemplosAngular';
+  title = 'Tour of Heroes';
+  subTitle ='Bienvenidos Heroes';
 }
